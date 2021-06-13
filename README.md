@@ -1,5 +1,4 @@
 NLT Robotica
-
 Rana Abdelrahman, Wies van Slooten, Anne Sluiters, Liv del Canho & Mette Schukinck Kool
 
 5e Klas Barlaeus
@@ -12,6 +11,7 @@ Groep D
 
 
 Inleiding
+
 Wij hadden allemaal nog nooit iets gedaan met programmeren en hadden dus geen idee hoe we een code moeten schrijven of hoe het er überhaupt uit zou moeten zien. Dit maakte het erg lastig om goed te beginnen en het ging bijvoorbeeld al mis bij sommigen om de programma’s te downloaden. Wel waren we erg benieuwd hoe het zou lopen en wilden we leren hoe we kunnen programmeren, aangezien dit een steeds grotere rol speelt in de samenleving. 
 
 Hoe probeerden we het aan te pakken en wat kwam eruit?
